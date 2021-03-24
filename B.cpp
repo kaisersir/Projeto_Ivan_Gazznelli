@@ -15,6 +15,9 @@ class B{
         void MB2(){
             cout<<"MB2"<<endl;
         }
+        void MB3 (){
+            cout<<"MB3"<<endl;
+        }
 }
 
 int main (){
