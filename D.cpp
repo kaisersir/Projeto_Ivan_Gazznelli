@@ -19,6 +19,9 @@ class D{
             cout<<"MD3"<<endl;
         }
 
+        void MD4(){
+            cout<<"MD4"<<endl;
+        }
 }
 
 int main (){
