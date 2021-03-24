@@ -15,7 +15,9 @@ class D{
         void MD2(){
             cout<<"metodo 2"<<endl;
         }
-
+        void MD4(){
+            cout<<"MD4"<<endl;
+        }
 }
 
 int main (){
